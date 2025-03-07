@@ -6,7 +6,7 @@ The goal of this task is to evaluate your ability to design and implement AWS in
 
 ---
 
-### **0. Preparation**
+### **0. Preparation** ✅
 
 1. Create an AWS account for the task (or use an existing one).
 2. Create a GitHub repository for your Terraform code.
